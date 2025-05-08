@@ -1,1 +1,0 @@
-# jloganolson.github.io
