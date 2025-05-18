@@ -1,0 +1,22 @@
+---
+layout: post
+title: "G1: Week 4"
+date: 2025-04-21 19:49 -0700
+---
+## tl;dr 
+I trained and deployed my own balance policy!
+![output](/assets/img/week-4/mujoco-balance.gif)
+
+I [dumped it on github](tab:https://github.com/jloganolson/g1_basic_balance) in case other folks find it useful.
+
+It's quite jank and brittle, per it just falling over with a light push - but hey it's a start!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e49JQYmHlfY?si=_YICNhqOsyPZY6sq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Learnings
+* How to train and deploy a policy that uses the G1 IMU (it's on the pelvis, btw)
+* Mujoco Playground is designed to be a showcase/demo repo, not as a foundation for actual work/research  
+
+## Potential next steps
+* Try out [LocoMuJoCo](tab:https://github.com/robfiras/loco-mujoco)
+* Teleoperation with the Quest?
+* Build the simplest real2sim2real project I could imagine (I just think the community could use that and now I might have the background/skills to do something about it... stay tuned!)
