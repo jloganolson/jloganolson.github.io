@@ -5,7 +5,7 @@ date: 2025-09-06 13:00 -0700
 ---
 This was my first week getting to tinker full time!
 
-![posing the G1 in blender](assets/img/250906/rigged-g1-blender.png)
+![posing the G1 in blender]({{ "/assets/img/250905/rigged-g1-blender.png" | relative_url }})
 
 ## tl;dr
 * Updated my G1 MJCF and USD with new 3D-printed forearms
