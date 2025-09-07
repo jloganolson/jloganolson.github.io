@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Back in the saddle!"
-date: 2025-09-06 13:00 -0700
+date: 2025-09-05 13:00 -0700
 ---
 This was my first week getting to tinker full time!
 
